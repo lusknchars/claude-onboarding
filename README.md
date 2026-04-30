@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="claude-onboarding — audit, score, improve" width="100%" />
+  <img src="assets/git_skill_01post.png" alt="Claude Skills for </> On-boarding — by lusknchars" width="100%" />
 </p>
 
 # claude-onboarding
