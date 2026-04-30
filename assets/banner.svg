@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 400" fill="none" role="img" aria-label="claude-onboarding — audit, score, improve">
+  <rect width="1500" height="400" fill="#0a1628"/>
+
+  <!-- Score bars icon -->
+  <g transform="translate(140, 145)">
+    <rect width="200" height="14" rx="2" fill="#1e293b"/>
+    <rect width="160" height="14" rx="2" fill="#10b981"/>
+
+    <rect y="32" width="200" height="14" rx="2" fill="#1e293b"/>
+    <rect y="32" width="184" height="14" rx="2" fill="#10b981"/>
+
+    <rect y="64" width="200" height="14" rx="2" fill="#1e293b"/>
+    <rect y="64" width="92" height="14" rx="2" fill="#10b981"/>
+
+    <rect y="96" width="200" height="14" rx="2" fill="#1e293b"/>
+    <rect y="96" width="148" height="14" rx="2" fill="#10b981"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="420" y="200"
+        font-family="ui-monospace, 'SF Mono', 'Menlo', 'Consolas', monospace"
+        font-size="64"
+        font-weight="500"
+        fill="#f8fafc"
+        letter-spacing="-1">claude-onboarding</text>
+
+  <!-- Tagline -->
+  <text x="420" y="248"
+        font-family="ui-monospace, 'SF Mono', 'Menlo', 'Consolas', monospace"
+        font-size="20"
+        font-weight="400"
+        fill="#64748b"
+        letter-spacing="3">AUDIT · SCORE · IMPROVE</text>
+</svg>

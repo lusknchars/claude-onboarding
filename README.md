@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="claude-onboarding — audit, score, improve" width="100%" />
+</p>
+
 # claude-onboarding
 
 > Audit any SaaS onboarding flow in 5 minutes. Get a scored report and a prioritized roadmap.
